@@ -1,4 +1,4 @@
-# image-processing-website
+# image-processing-website2
 <b>Web-Based Image Processing Platform</b>
 Developed and continuously expanding a full-stack web application for image processing, starting with:-
   1. Image compression.
